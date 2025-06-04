@@ -11,6 +11,7 @@ A simple and powerful GUI application for copying files and folders using `rsync
 1. **Download the AppImage file:**
 
    > `rsync-gui-x86_64.AppImage`
+   > [Click here to download](https://github.com/msnrsmart/RSgui/releases/download/RSgui/Rsync_GUI-x86_64.AppImage)
 
 2. **Make it executable:**
 
@@ -53,9 +54,3 @@ AppImage version bundles everything — no external dependencies required.
 * Most major Linux distributions
 
 ---
-
-## 📜 License
-
-MIT License
-
-```
